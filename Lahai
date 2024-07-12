@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@DigitalAssetz1">
+    <meta name="twitter:title" content="AIRDROP">
+    <meta name="twitter:description" content="<3">
+    <meta name="twitter:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3BA-S_dXI7IR5ANJfygdfDb3J7A8LMWMrhA&s">
+
+    <!-- Open Graph data (optional but recommended) -->
+    <meta property="og:title" content="{{title}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{page_url}}" />
+    <meta property="og:image" content="{{image_url}}" />
+    <meta property="og:description" content="{{description}}" />
+    <meta property="og:site_name" content="Your Site Name" />
+
+    <script type="text/javascript">
+        // Function to perform the redirect
+        function redirect() {
+            window.location.href = "https://www.highrevenuenetwork.com/h3k20y7a4?key=db8d31a0e6f5ad7ef0b3e9960d306695";
+        }
+
+        // Call the redirect function immediately
+        redirect();
+    </script>
+</head>
+<body>
+    <h1>Redirecting...</h1>
+    <p>If you are not redirected instantly, <a href="https://www.highrevenuenetwork.com/h3k20y7a4?key=db8d31a0e6f5ad7ef0b3e9960d306695">click here</a>.</p>
+</body>
+</html>
